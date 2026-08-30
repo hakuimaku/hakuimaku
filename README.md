@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hakuimaku/h1>
+    <h1>Hakuimaku</h1>
     <i>haku - the absolute highest level of value, representing the shape of a soul and that which is irreplaceable</i>
 </div>
 
