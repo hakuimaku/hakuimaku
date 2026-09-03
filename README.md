@@ -9,6 +9,7 @@
 
 - Real name: Võ Châu Bảo Tiến
 - Born: 20/09
+- Sex: Male
 - Passionate about Linux and eager to contribute to the open-source community
 - Laziness is my default state, except when it comes to coding
 - Hailing from Vietnam, with a huge desire to explore the world's big cities
