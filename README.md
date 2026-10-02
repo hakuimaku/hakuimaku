@@ -17,11 +17,11 @@
 ## Set-up Space
 
 - Device: Laptop MSI Modern 15 B12MO
-- OS: Window 11 | NixOS | Arch Linux
+- OS: Window 11 | Arch Linux
 
 ## Processing
 
-- Code: C/C++ (30%), C# (50%), Bash (70%), Python (20%), Dart (10%)
+- Code: C/C++ (30%), C# (50%), Bash (75%), Python (25%), Dart (20%)
 - Project:
     - [hakuspace](https://github.com/hakuimaku/hakuspace): my setup space for my device - dotfiles
-- Study: 55%
+- Study: 60%
